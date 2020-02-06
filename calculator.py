@@ -4,7 +4,7 @@ class Calculator:
         pass
 
     def add(self, x, y):
-        return None
+        return x+y
 
     def sub(self, x, y):
         return None
