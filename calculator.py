@@ -10,7 +10,7 @@ class Calculator:
         return None
 
     def mult(self, x, y):
-        return None
+        return x*y
 
     def div(self, x, y):
         return None
